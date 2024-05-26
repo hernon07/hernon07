@@ -1,6 +1,5 @@
 - 👋 Hi, I’m usama 
-- 👀 I’m interested in web development and tech in general 
-- 🌱 a web development based in tunisia
+- a web development based in tunisia
 - Tech Stack : HTML | CSS | JS | REACT | Bootstrap | Wordpress
 
 <!---
