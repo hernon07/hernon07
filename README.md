@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Usama 
-- a Web Developer based in tunisia
+- Web Developer based in tunisia
 - Tech Stack : HTML | CSS | JS | REACT | Bootstrap | Wordpress
 
 <!---
